@@ -3,8 +3,8 @@
 - Frontend Tech:
 React
 - Backend Tech:
-Hono
-Ollama 
+Hono,
+Ollama,
 TypeScript
 - AI Model:
 Gemma2:2b
