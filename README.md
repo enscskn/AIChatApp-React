@@ -1,13 +1,13 @@
 ### Technologies
 
 - Frontend Tech:
- + React
+React
 - Backend Tech:
- - Hono
- - Ollama 
- - TypeScript
+Hono
+Ollama 
+TypeScript
 - AI Model:
- - Gemma2:2b
+Gemma2:2b
 
 ## Preview
 [![](https://i.hizliresim.com/kc8xmcb.png)](https://i.hizliresim.com/kc8xmcb.png)
