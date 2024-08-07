@@ -1,7 +1,7 @@
 ### Technologies
 
 - Frontend Tech:
- - React
+ + React
 - Backend Tech:
  - Hono
  - Ollama 
